@@ -7,3 +7,4 @@ This is a simple 2D game following the [Ultimate introducction to pygame](https:
 - [ ] More enemies.
 - [ ] Better enemy spawning.
 - [ ] High score system.
+
